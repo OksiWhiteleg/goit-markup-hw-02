@@ -10,7 +10,6 @@
   <body>
     <header>
       <a href="WebStudio">WebStudio</a>
-
       <nav>
         <ul>
           <li><a href="Studio"></a>Studio</li>
