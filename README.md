@@ -9,26 +9,26 @@
   </head>
   <body>
     <header>
+    <a href="./index.html">WebStudio</a></li>
       <nav>
         <ul>
-          <li><a href="WebStudio">WebStudio</a></li>
-          <li><a href="./index.html"></a>Studio</li>
-          <li><a href="./portfolio.html"></a>Portfolio</li>
-          <li><a href="./contacts.html"></a>Contacts</li>
+          <li><a href="Studio"></a>Studio</li>
+          <li><a href="Portfolio"></a>Portfolio</li>
+          <li><a href="Contacts"></a>Contacts</li>
         </ul>
       </nav>
-      <adress>
+      <address>
         <ul>
           <li><a href="mailto:info@devstudio.com">info@devstudio.com</a></li>
           <li><a href="tel:+110001111111">+11 (000) 111-11-11</a></li>
         </ul>
-      </adress>
-      </header>
+      </address>
+    </header>
+    <main>
       <section>
       <h1>Effective Solutions for Your Business</h1>
       <button type="button">Order Service</button>
       </section>
-    <main>
       <section>
         <ul>
           <li>
@@ -102,6 +102,5 @@
         marketing & growth solutions.
       </p>
     </footer>
-
   </body>
 </html>
