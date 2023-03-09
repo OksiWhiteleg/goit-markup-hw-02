@@ -9,12 +9,12 @@
   </head>
   <body>
     <header>
-    <a href="./index.html">WebStudio</a></li>
-      <nav>
-        <ul>
-          <li><a href="Studio"></a>Studio</li>
-          <li><a href="Portfolio"></a>Portfolio</li>
-          <li><a href="Contacts"></a>Contacts</li>
+      <a href="./index.html">WebStudio</a></li>
+        <nav>
+          <ul>
+            <li><a href="Studio"></a>Studio</li>
+            <li><a href="Portfolio"></a>Portfolio</li>
+            <li><a href="Contacts"></a>Contacts</li>
         </ul>
       </nav>
       <address>
