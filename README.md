@@ -9,21 +9,27 @@
   </head>
   <body>
     <header>
-      <a href="WebStudio">WebStudio</a>
       <nav>
         <ul>
-          <li><a href="Studio"></a>Studio</li>
-          <li><a href="Portfolio"></a>Portfolio</li>
-          <li><a href="Contacts"></a>Contacts</li>
+          <li><a href="WebStudio">WebStudio</a></li>
+          <li><a href="./index.html"></a>Studio</li>
+          <li><a href="./portfolio.html"></a>Portfolio</li>
+          <li><a href="./contacts.html"></a>Contacts</li>
         </ul>
       </nav>
-      <a href="mailto:info@devstudio.com">info@devstudio.com</a>
-      <a href="tel:+11(000)111-11-11">+11 (000) 111-11-11</a>
+      <adress>
+        <ul>
+          <li><a href="mailto:info@devstudio.com">info@devstudio.com</a></li>
+          <li><a href="tel:+110001111111">+11 (000) 111-11-11</a></li>
+        </ul>
+      </adress>
+      </header>
+      <section>
       <h1>Effective Solutions for Your Business</h1>
       <button type="button">Order Service</button>
-    </header>
+      </section>
     <main>
-      <div>
+      <section>
         <ul>
           <li>
             <h3>Strategy</h3>
@@ -54,49 +60,43 @@
             </p>
           </li>
         </ul>
-      </div>
+      </section>
       <section>
         <h2>What are we doing</h2>
-        <img src="./images/img01.jpg" alt="computer" width="360" />
-        <img src="./images/img02.jpg" alt="phone" width="360" />
-        <img src="./images/img03.jpg" alt="phone and computer" width="360" />
+        <ul>
+        <li><img src="./images/img01.jpg" alt="computer" width="360" /></li>
+        <li><img src="./images/img02.jpg" alt="phone" width="360" /></li>
+        <li><img src="./images/img03.jpg" alt="phone and computer" width="360" /></li>
+        </ul>
       </section>
       <section>
         <h2>Our Team</h2>
         <ul>
           <li>
-            <div>
               <img src="./images/foto1.jpg" alt="Mark Guerrero" width="264" />
               <h3>Mark Guerrero</h3>
               <p>Product Designer</p>
-            </div>
           </li>
           <li>
-            <div>
               <img src="./images/foto2.jpg" alt="Tom Ford" width="264" />
               <h3>Tom Ford</h3>
               <p>Frontend Developer</p>
-            </div>
           </li>
           <li>
-            <div>
               <img src="./images/foto3.jpg" alt="Camila Garcia" width="264" />
               <h3>Camila Garcia</h3>
               <p>Marketing</p>
-            </div>
           </li>
           <li>
-            <div>
               <img src="./images/foto4.jpg" alt="Daniel Wilson" width="264" />
               <h3>Daniel Wilson</h3>
               <p>UI Designer</p>
-            </div>
           </li>
         </ul>
       </section>
     </main>
     <footer>
-      <a href="WebStudio">WebStudio</a>
+      <a href="./index.html">WebStudio</a>
       <p>
         Increase the flow of customers and sales for your business with digital
         marketing & growth solutions.
