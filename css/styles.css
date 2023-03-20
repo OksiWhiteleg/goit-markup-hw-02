@@ -6,6 +6,9 @@
 
 body {
     font-family: "Roboto", sans-serif;
+    color: var(--color-slate);
+    background-color: #FFFFFF;
+    
 
 }
 
@@ -216,7 +219,9 @@ body {
 /* Portfolio */
 .button {}
 
-.buttons-list {}
+.buttons-list {
+    list-style: none
+}
 
 .buttons-item {
     font-weight: 500;
@@ -228,7 +233,12 @@ body {
     letter-spacing: 0.04em;
     color: var(--color-iris);
     cursor: pointer;
+    background-color:#F4F4FD
 }
+.buttons-item:hover,
+.buttons-item:focus {
+    color: #FFFFFF;
+    background-color:#404bbf
 
 /* Project */
 .project {}
