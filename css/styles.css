@@ -97,8 +97,7 @@ body {
     text-decoration: none;
 }
 
-.header-mail:hover,
-.header-mail:focus {
+.header-mail:is(:hover, :focus) {
     color: #404bbf;
 }
 
