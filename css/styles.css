@@ -81,7 +81,9 @@ body {
     text-decoration: none;
 }
 
-.address-menu {}
+.address-menu {
+    text-decoration: none;
+}
 
 .address-item {}
 
