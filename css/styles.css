@@ -75,7 +75,7 @@ body {
     color: #404bbf
 }
 
-.address {
+.header-address {
     font-style: normal;
     color: var(--color-slate);
     text-decoration: none;
@@ -87,7 +87,7 @@ body {
 
 .address-item {}
 
-.address-mail {
+.header-mail {
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -97,24 +97,11 @@ body {
     text-decoration: none;
 }
 
-.address-tel {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--color-slate);
-    text-decoration: none;
-}
-
-.address-link:hover,
-.address-link:focus {
+.header-mail:hover,
+.header-mailk:focus {
     color: #404bbf;
     text-decoration: none;
 }
-
-
-
 
 /* HERO */
 .hero {
