@@ -201,11 +201,11 @@ body {
     color: var(--color-navy-blue);
 }
 
-.team-list {
+.team-list {}
+
+.team-item {
     background-color: #FFFFFF
 }
-
-.team-item {}
 
 .team-top-text {
     font-weight: 500;
