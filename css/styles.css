@@ -23,11 +23,8 @@ body {
 
 
 /* HEADER */
-.header {
-    background-color: #E7E9FC;
-}
 
-.header-navigation {
+.list {
     list-style: none
 }
 
@@ -132,7 +129,6 @@ body {
 
 .hero-btn:hover,
 .hero-btn:focus {
-    color: #404bbf;
     background-color: #404BBF;
 }
 
